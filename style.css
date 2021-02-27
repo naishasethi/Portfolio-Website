@@ -86,3 +86,12 @@ float: left;
 .links:hover {
     background-color:deeppink;
 }
+html {
+    scroll-behavior: smooth;
+}
+a {
+    text-decoration: none;
+}
+.Article:hover {
+    color: fuchsia;
+}
